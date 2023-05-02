@@ -1,18 +1,16 @@
-# Vue 3 + TypeScript + Vite
+---
+## Meu Front-End Aluguel de Eletricos
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Projeto MVP para o curso de Pós-graduação em Engenharia de Software pela PUC-Rio. 
+Este pequeno projeto faz parte do MVP do curso de Pós-Gradução em Engenharia de Software
 
-## Recommended IDE Setup
+Com o aumento da tecnologia, muitas empresas estão tendo que adaptar com esse ritmo, e com isso terão que comprar novas maquinas (PC's) e atualizar os sistemas mais pontentes para atender as necessidades.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+O produto desenvolvido tem como objetivo facilitar que as empresas não tenham muito gasto com compras de maquinas e equipamentos novos, sendo que o aluguel sai muito mais barato.
 
-## Type Support For `.vue` Imports in TS
+Com isso, o projeto visa ofertar para empresas e grandes negocios o aluguel de Equipamentos eletronicos(PC, Placa Main, HDs e outros) com intuito de facilitar a vida do empresario nas mudanças tecnologicas. 
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+---
+## Como executar
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+Fazer o clone do projeto localmente e abrir o arquivo index.html no seu browser.
